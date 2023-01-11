@@ -6,18 +6,15 @@ categories: jekyll
 ---
 I built this website using `GitHub Pages` and `Jekyll`. 
 
-## <span style="color:blue">Step 1: Creating a GitHub repository</span>
----
+## <span style="color:#33E6FF">Step 1: Creating a GitHub repository</span>
 The repository name needs to be `<user>.github.io` or `<organization>.github.io`. So I named the new repository `xuechanma.github.io`.
 
 
-## <span style="color:blue">Step 2: Cloning the repository to a local folder</span>
----
+## <span style="color:#33E6FF">Step 2: Cloning the repository to a local folder</span>
 I used `GitHub Desktop` to clone the above repository to a designated local folder on the laptop. It was very simple. 
 
 
-## <span style="color:blue">Step 3: Creating a Jekyll site</span>
----
+## <span style="color:#33E6FF">Step 3: Creating a Jekyll site</span>
 In `Terminal`, run command line:
 {% highlight ruby %}
 cd REPOSITORY-NAME  ## Changes the working directory
@@ -42,8 +39,7 @@ bundle install
 After that, I used `GitHub Desktop` to stage, commit and push the above changes to GitHub. At this point, I could see that the website is live: https://xuechanma.github.io/.
 
 
-## <span style="color:blue">Step 4: Editting the `_config.yml` file</span>
----
+## <span style="color:#33E6FF">Step 4: Editting the `_config.yml` file</span>
 From the local folder, open the `_config.yml` file, and make necessary edits, for example, in my case:
 {% highlight ruby %}
 baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
@@ -52,8 +48,7 @@ baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
 Then I used `GitHub Desktop` to stage, commit and push the changes to GitHub.
 
 
-## <span style="color:blue">Step 5: Generating a test site locally with Jekyll</span>
----
+## <span style="color:#33E6FF">Step 5: Generating a test site locally with Jekyll</span>
 In `Terminal`, run command line:
 {% highlight ruby %}
 bundle install
