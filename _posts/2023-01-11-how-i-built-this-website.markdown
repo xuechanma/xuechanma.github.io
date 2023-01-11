@@ -39,7 +39,7 @@ bundle install
 After that, I used `GitHub Desktop` to stage, commit and push the above changes to GitHub. At this point, I could see that the website is live: https://xuechanma.github.io/.
 
 
-## <span style="color:#33E6FF">Step 4: Editting the `_config.yml` file</span>
+## <span style="color:#33E6FF">Step 4: Editting the _config.yml file</span>
 From the local folder, open the `_config.yml` file, and make necessary edits, for example, in my case:
 {% highlight ruby %}
 baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
