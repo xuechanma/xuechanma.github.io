@@ -8,15 +8,15 @@ I built this website using `GitHub Pages` and `Jekyll`.
 
 ## The solution that works
 
-### Step 1: Creating a GitHub repository
+### <u>Step 1: Creating a GitHub repository</u> 
 
 The repository name needs to be `<user>.github.io` or `<organization>.github.io`. So I named the new repository `xuechanma.github.io`.
 
-### Step 2: Cloning the repository to a local folder
+### <u>Step 2: Cloning the repository to a local folder</u>
 
 I used `GitHub Desktop` to clone the above repository to a designated local folder on the laptop. It was very simple. 
 
-### Step 3: Creating a Jekyll site
+### <u>Step 3: Creating a Jekyll site</u>
 
 In `Terminal`, run command line:
 {% highlight ruby %}
@@ -41,7 +41,7 @@ bundle install
 
 After that, I used `GitHub Desktop` to stage, commit and push the above changes to GitHub. At this point, I could see that the website is live: https://xuechanma.github.io/.
 
-### Step 4: Editting the `_config.yml` file
+### <u>Step 4: Editting the `_config.yml` file</u>
 
 From the local folder, open the `_config.yml` file, and make necessary edits, for example, in my case:
 {% highlight ruby %}
@@ -50,7 +50,7 @@ baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
 
 Then I used `GitHub Desktop` to stage, commit and push the changes to GitHub.
 
-### Step 5: Generating a test site locally with Jekyll
+### <u>Step 5: Generating a test site locally with Jekyll</u>
 
 In `Terminal`, run command line:
 {% highlight ruby %}
@@ -68,7 +68,7 @@ To preview the site, in the web browser, navigate to the `Server address` indica
 
 # Useful links
 
-- About GitHub Pages and Jekyll: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+- [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 
 
