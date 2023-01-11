@@ -6,18 +6,18 @@ categories: jekyll
 ---
 I built this website using `GitHub Pages` and `Jekyll`. 
 
-## The solution that works
+## <span style="color:blue">Step 1: Creating a GitHub repository</span>
 ---
-### <u>Step 1: Creating a GitHub repository</u> 
-
 The repository name needs to be `<user>.github.io` or `<organization>.github.io`. So I named the new repository `xuechanma.github.io`.
 
-### <u>Step 2: Cloning the repository to a local folder</u>
 
+## <span style="color:blue">Step 2: Cloning the repository to a local folder</span>
+---
 I used `GitHub Desktop` to clone the above repository to a designated local folder on the laptop. It was very simple. 
 
-### <u>Step 3: Creating a Jekyll site</u>
 
+## <span style="color:blue">Step 3: Creating a Jekyll site</span>
+---
 In `Terminal`, run command line:
 {% highlight ruby %}
 cd REPOSITORY-NAME  ## Changes the working directory
@@ -41,8 +41,9 @@ bundle install
 
 After that, I used `GitHub Desktop` to stage, commit and push the above changes to GitHub. At this point, I could see that the website is live: https://xuechanma.github.io/.
 
-### <u>Step 4: Editting the `_config.yml` file</u>
 
+## <span style="color:blue">Step 4: Editting the `_config.yml` file</span>
+---
 From the local folder, open the `_config.yml` file, and make necessary edits, for example, in my case:
 {% highlight ruby %}
 baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
@@ -50,8 +51,9 @@ baseurl: "" ## the subpath of your site, e.g. /blog. I left it empty.
 
 Then I used `GitHub Desktop` to stage, commit and push the changes to GitHub.
 
-### <u>Step 5: Generating a test site locally with Jekyll</u>
 
+## <span style="color:blue">Step 5: Generating a test site locally with Jekyll</span>
+---
 In `Terminal`, run command line:
 {% highlight ruby %}
 bundle install
@@ -61,14 +63,9 @@ bundle exec jekyll serve
 To preview the site, in the web browser, navigate to the `Server address` indicated in the `Terminal`: something like http://LOCALHOST:4000.
 
 
-## Things that did not work
----
+## <span style="color:blue">A few tips</span>
 - I wanted to use the `al-folio` theme but I tried several times, and the pages build and deployment always failed. 
 - I had to switch to `Ruby version 3.1.3`. Problem kept occuring when I used `Ruby version 3.2.0`.
-
-
-# Useful links
----
 - [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 
