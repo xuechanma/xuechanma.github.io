@@ -32,7 +32,7 @@ From the local folder, open the Gemfile that `Jekyll` created:
 - Add "#" to the beginning of the line that starts with gem "jekyll" to comment out this line.
 - Add the `github-pages` gem by editing the line starting with `# gem "github-pages"`. Change this line to:
 {% highlight ruby %}
-gem "github-pages", "~> 227", group: :jekyll_plugins # The number "227" is copied from https://pages.github.com/versions/.
+gem "github-pages", "~> 227", group: :jekyll_plugins ## The number "227" is copied from https://pages.github.com/versions/.
 {% endhighlight %}
 
 Save and close the Gemfile.
