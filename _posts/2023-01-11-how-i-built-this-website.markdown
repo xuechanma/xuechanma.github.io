@@ -11,7 +11,8 @@ I built this website using `GitHub Pages` and `Jekyll`.
   alt="Never stop learning"
   width="640"
   height="362"/>
-<br></p>
+</p>
+<br>
 
 ## <span style="color:#00CCFF">Step 1: Creating a GitHub repository</span>
 The repository name needs to be `<user>.github.io` or `<organization>.github.io`. So I named the new repository `xuechanma.github.io`.
