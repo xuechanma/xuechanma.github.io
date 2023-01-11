@@ -7,11 +7,10 @@ categories: jekyll
 I built this website using `GitHub Pages` and `Jekyll`. 
 <br>
 <p style="text-align:center;"><img
-  src="images/never-stop-learning-3653430_640.jpg"
+  src="https://github.com/xuechanma/xuechanma.github.io/blob/gh-pages/images/never-stop-learning-3653430_640.jpg"
   alt="Never stop learning"
   width="640"
-  height="362"/>
-</p>
+  height="362"/></p>
 <br>
 
 ## <span style="color:#00CCFF">Step 1: Creating a GitHub repository</span>
