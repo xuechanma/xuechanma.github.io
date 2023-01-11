@@ -30,12 +30,12 @@ twitter_username: Xuechan_Ma
 github_username:  xuechanma
 
 # Build settings
-#theme: minima
-#plugins:
-  #- jekyll-feed
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+# remote_theme: pages-themes/architect@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
