@@ -7,7 +7,7 @@ categories: jekyll
 I built this website using `GitHub Pages` and `Jekyll`. 
 
 ## The solution that works
-
+---
 ### <u>Step 1: Creating a GitHub repository</u> 
 
 The repository name needs to be `<user>.github.io` or `<organization>.github.io`. So I named the new repository `xuechanma.github.io`.
@@ -62,12 +62,13 @@ To preview the site, in the web browser, navigate to the `Server address` indica
 
 
 ## Things that did not work
+---
 - I wanted to use the `al-folio` theme but I tried several times, and the pages build and deployment always failed. 
 - I had to switch to `Ruby version 3.1.3`. Problem kept occuring when I used `Ruby version 3.2.0`.
 
 
 # Useful links
-
+---
 - [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 
