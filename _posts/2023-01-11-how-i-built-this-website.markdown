@@ -69,3 +69,4 @@ To preview the site, in the web browser, navigate to the `Server address` indica
 - I had to switch to `Ruby version 3.1.3`. Problem kept occuring when I used `Ruby version 3.2.0`.
 - Documentation <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll" target="_blank" rel="noopener noreferrer">About GitHub Pages and Jekyll</a>
 - <a href="http://rjgc.cn/2019/06/28/Jekyll%E5%92%8CGithub-Pages%E6%90%AD%E5%BB%BA%E7%9A%84%E7%BD%91%E7%AB%99%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA/" target="_blank" rel="noopener noreferrer">How to solve GitHub Pages image not showing</a>
+- <a href="https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/" target="_blank" rel="noopener noreferrer">How to Use HTML to Open a Link in a New Tab</a>
