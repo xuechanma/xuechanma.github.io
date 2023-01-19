@@ -6,7 +6,7 @@ categories: literature_review
 ---
 ## <span style="color:#00CCFF">Jacquemont et al 2023</span>
 
-<p>Full text: <a href="https://doi.org/10.1016/j.oneear.2022.09.002" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.oneear.2022.09.002</a></p>
+<p>Full text:<a href="https://doi.org/10.1016/j.oneear.2022.09.002" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.oneear.2022.09.002</a></p>
 
 **<u>Impressive points:</u>**
 
