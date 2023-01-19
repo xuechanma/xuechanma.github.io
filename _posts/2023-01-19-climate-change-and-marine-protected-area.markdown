@@ -4,12 +4,11 @@ title:  "Climate change and marine protected area"
 date:   2023-01-19 17:15:51 +0100
 categories: literature_review
 ---
- 
-
 ## <span style="color:#00CCFF">Jacquemont et al 2023</span>
+
 <p>Full text:<a href="https://doi.org/10.1016/j.oneear.2022.09.002" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.oneear.2022.09.002</a></p>
 
-**Impressive points:**
+**<u>Impressive points:</u>**
 
 - **Carbon sequestration** was defined as organic Carbon (C) stored for over 100 years.
 - Marine protected areas (MPA) had no effect on **genetic diversity**.
@@ -25,7 +24,7 @@ categories: literature_review
 - The ability of MPAs to enhance ecological adaptation results mostly from **alleviation of fishing pressure**, which represents a minor threat to corals in comparison with temperature rise and acidification.
 - Methodology: **vote counting**; **meta-analytical approach**
 
-**Impressive figures:**
+**<u>Impressive figure:</u>**
 <p>Figure 1. Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information</p>
 
 <p style="text-align:center;"><img
@@ -35,5 +34,5 @@ categories: literature_review
   height="916"/>
 </p>
 
-*General disclaimer*: impressive ≠ endorsement
+*General disclaimer: impressive ≠ endorsement*
 
