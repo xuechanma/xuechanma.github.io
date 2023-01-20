@@ -23,7 +23,7 @@ categories: literature_review
 - Habitats with high C sequestration potential but low spatial extent (e.g., **mangroves** and **seagrass**) translate into a high mitigation potential per surface area but low mitigation potential at the global scale. 
 - Conversely, **fish** and **sediments** have lower mitigation potential per surface area but can play an important role in global climate mitigation because of their vast extent.
 - The ability of MPAs to enhance ecological adaptation results mostly from **alleviation of fishing pressure**, which represents a minor threat to corals in comparison with temperature rise and acidification.
-- Methodology: **vote counting**; **meta-analytical approach**
+- Methodology: **vote counting** + **meta-analysis**
 
 **<u>Impressive figure:</u>**
 <p>Figure 1. Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information</p>
