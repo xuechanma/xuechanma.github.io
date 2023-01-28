@@ -9,7 +9,7 @@ I built this website using `GitHub Pages` and `Jekyll`.
 <p style="text-align:center;"><img
   src="/images/never-stop-learning-3653430_640.jpg"
   alt="Never stop learning"
-  width="720"
+  width="730"
   height="400"/></p>
 
 ## <span style="color:#00CCFF">Step 1: Creating a GitHub repository</span>
