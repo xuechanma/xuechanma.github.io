@@ -4,7 +4,7 @@ title:  "Debug records"
 date:   2023-01-19 21:25:51 +0100
 categories: jekyll
 ---
-*Warning: The following might contain content of anxiety and depression.*
+*Warning: This post might contain a lot of anxiety and depression.*
 
 <p style="text-align:center;"><img
   src="/images/laptop-3087585_1920.jpg"
