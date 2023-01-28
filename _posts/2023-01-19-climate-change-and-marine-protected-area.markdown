@@ -5,6 +5,16 @@ date:   2023-01-19 17:15:51 +0100
 categories: literature_review
 ---
 
+<p style="text-align:center;"><img
+  src="/images/mpacc.jpg"
+  alt="Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information"
+  width="705"
+  height="408"/>
+</p>
+<p>Figure 1. Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information</p>
+
+*General disclaimer: impressive ≠ endorsement*
+
 ## <span style="color:#00CCFF">Jacquemont et al 2023</span>
 
 <p>Full text:<a href="https://doi.org/10.1016/j.oneear.2022.09.002" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.oneear.2022.09.002</a></p>
@@ -25,14 +35,4 @@ categories: literature_review
 - The ability of MPAs to enhance ecological adaptation results mostly from **alleviation of fishing pressure**, which represents a minor threat to corals in comparison with temperature rise and acidification.
 - Methodology: **vote counting** + **meta-analysis**
 
-**<u>Impressive figure:</u>**
-<p>Figure 1. Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information</p>
 
-<p style="text-align:center;"><img
-  src="/images/mpacc.jpg"
-  alt="Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information"
-  width="705"
-  height="408"/>
-</p>
-
-*General disclaimer: impressive ≠ endorsement*
