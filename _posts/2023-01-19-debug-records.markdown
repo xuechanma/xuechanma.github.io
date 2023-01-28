@@ -5,11 +5,10 @@ date:   2023-01-19 21:25:51 +0100
 categories: jekyll
 ---
 *Warning: This post might contain a lot of anxiety and depression.*
-
 <p style="text-align:center;"><img
   src="/images/laptop-3087585_1920.jpg"
   alt="debug struggle"
-  width="710"
+  width="720"
   height="500"/>
 </p>
 
