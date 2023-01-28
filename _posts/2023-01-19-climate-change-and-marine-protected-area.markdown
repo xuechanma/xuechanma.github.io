@@ -8,8 +8,8 @@ categories: literature_review
 <p style="text-align:center;"><img
   src="/images/mpacc.jpg"
   alt="Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information"
-  width="720"
-  height="410"/>
+  width="730"
+  height="400"/>
 </p>
 <p>Figure 1. Pathways through which MPAs can contribute to climate change mitigation or adaptation, with quantitative and spatial assessment of available information</p>
 
