@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Test"
+date:   2023-02-09 21:25:51 +0100
+categories: test
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EfficientNet B0 Multi-Class Classification</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@2.0.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/efficientnet@2.0.0"></script>
+</head>
+<body>
+  <h1>EfficientNet B0 Multi-Class Classification</h1>
+  <div id="classification-result"></div>
+  <img id="input-image" />
+  <script>
+    async function runClassification() {
+      // Load the pre-trained EfficientNet B0 model
+      const model = await efficientnet.load("b0");
+
+      // Load an image
+      const image = document.getElementById("input-image");
+
+      // Classify the image
+      const predictions = await model.classify(image);
+
+      // Display the top-k predictions
+      const topK = predictions.slice(0, 3);
+      const resultDiv = document.getElementById("classification-result");
+      resultDiv.innerHTML = "Top 3 predictions:<br><br>";
+      for (const prediction of topK) {
+        resultDiv.innerHTML += `${prediction.className}: ${(prediction.probability * 100).toFixed(2)}%<br>`;
+      }
+    }
+  </script>
+  <button onclick="runClassification()">Run Classification</button>
+</body>
+</html>
